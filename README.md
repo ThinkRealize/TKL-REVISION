@@ -20,10 +20,7 @@ git pull
 ```
 ### Build
 
-This theme is base on Sass and jQuery and use gulp to build it. If u want to change this theme's style. Maybe u should know these skills.
-
-### Gulpfile
-[File](https://gist.github.com/yangzj1992/97a4c31f5596d45eb0df3cc32d707e7b)
+This theme is base on Sass and jQuery and use webpack to build it. If u want to change this theme's style. Maybe u should know these skills.
 
 ### File Directory
 - layout (include every pages content)
