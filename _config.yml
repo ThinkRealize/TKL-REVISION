@@ -1,22 +1,19 @@
 # config
-title:  青春样 | yangzj1992's blog
 subtitle:
-author: yangzj1992
+author: HuangRay
 language: zh-Hans
-email: yangzj1992@qq.com #联系邮箱
+email: yellowstarlewis@gmail.com #联系邮箱
 url: http://www.qcyoung.com
 
 logo: http://qcyoung.qiniudn.com/qcyoung/TKL/logo.png
 logoc: http://qcyoung.qiniudn.com/qcyoung/TKL/oursbrun.png
 top_saying:
-- title: GLAD TO SEE U, WELCOME TO YANGZJ1992 &#39;S BLOG.
+- title: GLAD TO SEE U, WELCOME TO HUANGRAY &#39;S BLOG.
 - content: 每一个不曾起舞的日子都是对生命的辜负 —— 尼采 《查拉图斯特拉如是说》
 bottom_saying:  奇迹每天都在发生 (Miracles happen every day) —— 《阿甘正传》
 theme_pics_server: http://qcyoung.qiniudn.com/qcyoung/
 # Content
 excerpt_link: Read More
-
-rss: /atom.xml
 
 highlightjs: vs
 
@@ -28,20 +25,23 @@ works:
 #   works_url: /atom.xml
 
 #duoshuo name
-duoshuo_shortname: yangzj1992
+duoshuo_shortname: HuangRay
 
 # Disqus
-disqus_shortname: yangzj1992
+disqus_shortname: HuangRay
 
 # Miscellaneous
-GitHub: https://github.com/yangzj1992
-Twitter: https://twitter.com/yangzj1992
-Weibo: http://weibo.com/yangzj1992
-ZhiHu: http://www.zhihu.com/people/yangzj1992
-Shanbay: http://www.shanbay.com/bdc/review/progress/954313
-Segmentfault: http://segmentfault.com/u/yangzj1992
-Google: https://profiles.google.com/103095542128057560598
-Baidu: http://www.baidu.com/p/yangzj1992
+GitHub: https://github.com/ThinkRealize
+
+#Menu
+menu:
+  home: /
+  categories: /categories
+  about: /about
+  archives: /archives
+  tags: /tags
+  #schedule: /schedule     
+  #commonweal: /404.html
 
 #Links
 links:
@@ -116,16 +116,6 @@ friendlinks:
     - name: 大搜车前端团队博客
       link: http://f2e.souche.com/blog/
       description: 相信技术改变世界，这里是我们的点滴思考和总结。
-
-
-
-
-
-
-
-
-
-
 #Project
 projects:
 - name: 掘金翻译计划
@@ -138,4 +128,3 @@ projects:
 #Analytics
 cnzz: true  
 cnzzaccount: 1000263347
-
